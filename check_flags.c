@@ -36,10 +36,10 @@ int get_flag(char s, flags_t *f)
 			f->space = 1;
 			i = 1;
 			break;
-		 case '0':
-                        f->space = 1;
-                        i = 1;
-                        break
+		case '0':
+			f->space = 1;
+			i = 1;
+			break
 	}
 
 	return (i);
