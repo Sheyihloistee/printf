@@ -2,7 +2,7 @@
 #define MAIN_H
 
 /*
- * File: base_converters.c
+ * File: main.h
  * Auths: OLUWASEYI ADEKOYA
  *  CHIAGOZIE IKEJI @ ALX-SCHOOL
  */
